@@ -1,8 +1,12 @@
-📊 Power BI Analysis Documentation
-🎯 Objective
+📊    Power BI Analysis Documentation
+🎯    Objective
 To uncover actionable business insights from sales data — improving decisions related to products, regions, and customers.
 
-🧮 Key KPIs
+
+
+
+
+🧮   Key KPIs
 Total Revenue (₹ / $)
 
 Total Sale – Represents the overall sales across all products and regions.
@@ -30,6 +34,9 @@ Revenue by Category – Summarizes revenue generated per product category.
 Sales Trend – Visualizes the sales growth pattern across time.
 
 
+
+
+
 📈 Key Insights
 
 Shows clear sales growth trend across multiple years.
@@ -41,6 +48,8 @@ Highlights valuable customer contributions to total revenue.
 Supports filtering by high-value and low-value sales.
 
 Provides a geographic and category-wise breakdown for business analysis.
+
+
 
 
 🔍 Data Insights & Dashboards
@@ -65,6 +74,7 @@ The dashboard visualizes how revenue is distributed across categories, regions, 
 
 
 
+
 🧰 Tech Stack
 Component    -  Technology Used
 
@@ -79,9 +89,12 @@ Storage      -      CSV / Excel
 Automation   -    Python Scheduler
 
 
+
+
 ⚡ Dashboard Features
 The Sales Data Analysis Dashboard provides a powerful and interactive visualization of business performance metrics.
 It helps monitor sales trends, regional growth, customer contributions, and product category performance — all in one view.
+
 
 🚀 Project Impact
 ✅ Improved business decision-making
